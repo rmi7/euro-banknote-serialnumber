@@ -1,0 +1,36 @@
+{
+  "name": "euro-banknote-serialnumber",
+  "version": "0.1.0",
+  "description": "verify a euro banknote serial number",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "bin": {
+    "euro-banknote-serialnumber": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmi7/euro-banknote-serialnumber.git"
+  },
+  "keywords": [
+    "eu",
+    "euro",
+    "europe",
+    "money",
+    "banknote",
+    "serialnumber",
+    "verify",
+    "validate"
+  ],
+  "author": "Alexander 'rmi7' Remie <user@rmi7.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rmi7/euro-banknote-serialnumber/issues"
+  },
+  "homepage": "https://github.com/rmi7/euro-banknote-serialnumber#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
