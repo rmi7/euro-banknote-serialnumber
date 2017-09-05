@@ -1,6 +1,6 @@
 {
   "name": "euro-banknote-serialnumber",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "verify a euro banknote serial number",
   "main": "index.js",
   "scripts": {

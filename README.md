@@ -44,9 +44,6 @@ euro-banknote-serialnumber -h
 euro-banknote-serialnumber
 # outputs help about the command
 
-euro-banknote-serialnumber
-# outputs a random public IPv4 address
-
 euro-banknote-serialnumber --verify L25388049086
 # outputs 'invalid' and return code is 1 (so you can use it in pipes)
 
