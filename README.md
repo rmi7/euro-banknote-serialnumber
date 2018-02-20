@@ -1,5 +1,9 @@
 # Euro banknote serialnumber
 
+![License](https://img.shields.io/github/license/rmi7/euro-banknote-serialnumber.svg?style=flat-square)
+[![Version](https://img.shields.io/npm/v/euro-banknote-serialnumber.svg?style=flat-square&label=version)](https://www.npmjs.com/package/euro-banknote-serialnumber)
+![Downloads](https://img.shields.io/npm/dt/euro-banknote-serialnumber.svg)
+
 **ZERO DEPENDENCIES**
 
 This module will verify/validate that a given serial number is a valid Euro banknote serial number.
